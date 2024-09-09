@@ -1,0 +1,10 @@
+config:
+  target: "https://fpq-service-pg.vercel.app/"
+  phases:
+    - duration: 5
+      arrivalRate: 20
+
+scenarios:
+  - flow:
+    - get:
+        url: "/invoices"
