@@ -30,10 +30,6 @@ Start the server
   npm start
 ```
 
-
-## API KEY (keperluan CASN)
-
-kF7PUSW1qAEE6jeUMN6sMRMCv5Pt2z762tgxuZ38Kbk=
 ## Demo
 
 https://fpq-service-pg.vercel.app/
